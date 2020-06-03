@@ -4,20 +4,15 @@
 一个使用vue模仿todolist网站的一个小demo
 
 #### 软件架构
-软件架构说明
+vue
 
 
 #### 安装教程
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
+1. 使用node里的 npm i 安装 node包
 #### 使用说明
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1.  node包安装后 , 使用 vue3.x 的方法打开项目
 
 #### 参与贡献
 
